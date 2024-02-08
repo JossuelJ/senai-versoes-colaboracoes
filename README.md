@@ -1,5 +1,4 @@
 Estudando, treinando e aprendendo.
 
+<<<<<<< HEAD
 readme de exemplo.
-
-lembrei do comando: git commit 
